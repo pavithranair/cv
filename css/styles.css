@@ -1,0 +1,63 @@
+
+.intro {
+  background-color: #f1f3de;
+
+  padding: 7% 15%;
+}
+img {
+  float: left;
+  margin: 50px;
+  border-radius: 90%;
+}
+h1{
+  font-family:"Merriweather";
+  font-size: 4rem;
+}
+h2 {
+  font-family:"Merriweather";
+  font-size: 3rem;
+}
+p{
+  font-size: 2rem;
+}
+.education {
+  background-color: #EB8f8f;
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.skills {
+  background-color: #f1f3de;
+  text-align: center;
+  padding: 7% 15%;
+}
+.wrap {
+  text-align: justify;
+}
+
+.achievements {
+  background-color: #EB8f8f;
+  text-align: center;
+  padding: 7% 15%;
+}
+.icon-pink {
+  color: #EB8f8f;
+  padding: 3%;
+}
+.icon-cream{
+  color: #f1f3de;
+  padding: 3%;
+}
+#hobbies {
+  background-color: #f1f3de;
+  text-align: center;
+  padding: 7% 15%;
+}
+#footer {
+  background-color: #EB8f8f;
+  text-align: center;
+  padding: 7% 15%;
+}
+.copyright {
+  font-size: 0.75rem;
+}
